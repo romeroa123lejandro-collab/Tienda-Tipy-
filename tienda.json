@@ -1,0 +1,21 @@
+[
+  {
+    "creador": "Alex Romero",
+    "complementos": [
+      {
+        "nombre": "Dictado Jieshuo py",
+        "version": "7.0",
+        "descripcion": "Herramienta de dictado por voz para Jieshuo.",
+        "url": "AQUI_IRA_EL_ENLACE_DE_DESCARGA_DE_TU_ARCHIVO",
+        "cambios": "Versión estable 7.0"
+      },
+      {
+        "nombre": "Texto a audio Tipy",
+        "version": "2.2",
+        "descripcion": "Convierte texto seleccionado a audio.",
+        "url": "AQUI_IRA_EL_ENLACE_DE_DESCARGA_DE_TU_ARCHIVO",
+        "cambios": "Versión estable 2.2"
+      }
+    ]
+  }
+]
