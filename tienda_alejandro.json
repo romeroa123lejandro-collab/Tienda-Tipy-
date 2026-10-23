@@ -3,15 +3,15 @@
     "nombre": "Dictado Jieshuo py",
     "version": "7.0",
     "descripcion": "Herramienta de dictado por voz para Jieshuo.",
-    "url_base": "AQUI_IRA_LA_URL_RAW_DE_LA_CARPETA_DONDE_SUBAS_TUS_ARCHIVOS_LUA",
+    "url_base": "https://raw.githubusercontent.com/romeroa123lejandro-collab/Tienda-Tipy-/refs/heads/main/",
     "archivo": "dictado_jieshuo.lua",
     "cambios": "Versión estable 7.0"
   },
   {
-    "nombre": "Texto a audio Tipy",
+    "nombre": "Texto y audio Tipy",
     "version": "2.2",
-    "descripcion": "Convierte texto seleccionado a audio.",
-    "url_base": "AQUI_IRA_LA_URL_RAW_DE_LA_CARPETA_DONDE_SUBAS_TUS_ARCHIVOS_LUA",
+    "descripcion": "Convertir texto seleccionado a audio.",
+    "url_base": "https://raw.githubusercontent.com/romeroa123lejandro-collab/Tienda-Tipy-/refs/heads/main/",
     "archivo": "texto_a_audio.lua",
     "cambios": "Versión estable 2.2"
   }
