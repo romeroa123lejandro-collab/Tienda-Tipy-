@@ -1,18 +1,1 @@
-[
-  {
-    "nombre": "Dictado Jieshuo py",
-    "version": "7.0",
-    "descripcion": "Herramienta de dictado por voz para Jieshuo.",
-    "url_base": "https://raw.githubusercontent.com/romeroa123lejandro-collab/Tienda-Tipy-/refs/heads/main/",
-    "archivo": "dictado_jieshuo.lua",
-    "cambios": "Versión estable 7.0"
-  },
-  {
-    "nombre": "Texto y audio Tipy",
-    "version": "2.2",
-    "descripcion": "Convertir texto seleccionado a audio.",
-    "url_base": "https://raw.githubusercontent.com/romeroa123lejandro-collab/Tienda-Tipy-/refs/heads/main/",
-    "archivo": "texto_a_audio.lua",
-    "cambios": "Versión estable 2.2"
-  }
-]
+[{"version":"7.0","descripcion":"Herramienta de dictado por voz para Jieshuo.","nombre":"Dictado Jieshuo py","url_base":"https:\/\/raw.githubusercontent.com\/romeroa123lejandro-collab\/Tienda-Tipy-\/refs\/heads\/main\/","cambios":"Versión estable 7.0","archivo":"dictado_jieshuo.lua"},{"version":"2.2","descripcion":"Convertir texto seleccionado a audio.","nombre":"Texto y audio Tipy","url_base":"https:\/\/raw.githubusercontent.com\/romeroa123lejandro-collab\/Tienda-Tipy-\/refs\/heads\/main\/","cambios":"Versión estable 2.2","archivo":"texto_a_audio.lua"},{"version":"1.0","descripcion":"Con este complemento podras guardar  tus notas y compartir en diferentes formatos ","nombre":"Block de notas Tipy 2.2","url_base":"https:\/\/raw.githubusercontent.com\/romeroa123lejandro-collab\/Tienda-Tipy-\/main\/","autor":"romeroa123lejandro-collab","archivo":"block-de-notas-tipy.lua"}]
